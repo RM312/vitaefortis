@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center-top;
+    font-family: Arial, sans-serif; /* Optional: Makes it look a bit nicer */
+}
+
+h1 {
+    margin: 0;
+}
