@@ -4,10 +4,10 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
-    align-items: center-top;
     font-family: Arial, sans-serif; /* Optional: Makes it look a bit nicer */
 }
 
-h1 {
+V1 {
     margin: 0;
+    align-items: center-top;
 }
